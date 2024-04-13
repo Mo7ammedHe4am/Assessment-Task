@@ -1,0 +1,7 @@
+[
+  {
+    "url":"https://catfact.ninja",
+    "endpoint" : "/facts"
+  }
+
+]

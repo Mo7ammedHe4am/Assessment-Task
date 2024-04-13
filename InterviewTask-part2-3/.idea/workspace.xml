@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8181b8dd-89bb-45f7-9332-ce883db42c9e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/02a2db58-9582-4db6-b9a4-54544bdb93a3-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/05727f8c-af0b-4928-bb91-c5de9ad00583-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/0b071ed8-5ffa-4a82-bae8-8a0230b75212-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/11f3fe1e-1d6d-4fa5-979f-050ba97e5020-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1a115dc6-8b5b-4420-95cf-9262c374fb85-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1c8fc630-1586-4d9a-86fe-8ac017cbbfd8-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1ca36003-55ae-4c5f-b4aa-ccf2ee803d02-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1d7bed49-4857-4c27-b92e-deffed2d9bdc-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1e0e43f2-3b4d-4e95-a2e5-f764d0b7e422-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/20fdac2a-1715-4dff-9283-d59828104dd1-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/26fabc49-0121-4a3a-a738-a4157e480f92-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2961db29-b16d-445f-9708-c858eed484b8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2a345505-05a2-487e-9819-bebfe3cbbc89-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/2ba2c77c-1bcf-456d-a775-f4f3d4501743-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3971256b-af9d-4113-a109-31b67126a8eb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3a919af4-b58a-485d-957b-5eb17ffde88a-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/44edaa96-2771-46b4-9705-9fdbdff084b3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/45ffcd87-60b1-472c-bd67-a25f90399968-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5041daf1-7155-4da5-bdc5-35b30843d831-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5f54f290-57a9-4117-b903-77bac77fc227-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7114f741-02ce-481d-82f7-7a7668c7f988-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/720c65b0-9da2-461f-8655-8b511325e52b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/7485d7ec-8618-4fe9-9d11-112cf8c81a48-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/75861825-16f8-414b-a07a-a76ef04bab26-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/843c82e2-4898-48b2-82d6-bc7645ce959b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8815196f-232b-4b75-b14a-d44d7c4492fa-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8d0e2da8-1a64-4028-84ae-9306ab9a6669-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/9b366f50-5ba2-46a6-9342-c2f0a1537510-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a1455006-f4db-4105-b69b-7e607b948957-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aa0c848b-dcc3-47cc-9340-46dd5a62e0a3-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b6220ea0-2ef7-4451-af86-1b82b4aefb96-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ba15e0d9-ad8a-4f5b-ba36-db5581582ff4-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/bd255b2a-5dcc-44ef-9884-cf60c335a490-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c1bff2cb-b0fa-4b37-953c-adf1eb98c791-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/c8118bef-2ed7-444a-b195-59b3ffbc503e-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d23a7b14-7daa-4353-8a25-757121fd5427-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/dea79db4-da8e-43eb-9fb4-ae86c63944b0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/df7069ef-359f-45d0-9a49-6e689d0c7eed-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/e63b2e3a-d6a7-4368-9158-84278884ac4b-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ee10e2c8-e2dd-4688-a917-fbdab38e1b35-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/pages/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testdata/CatFactsApi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testdata/CatFactsDataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testdata/JsonDataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/testdata/UserData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/features/AddToCart.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/restassured/CatFactsApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/SD_AddToCart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testRunner/TestRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ReadPropertyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2erMltld0dC1lrPv7yuZFEikGjF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Cucumber Java.Scenario: user can add items to the cart (1).executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: user can add items to the cart.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CatFactsTCs.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CatFactsTCs.getCatInfo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CatFactsTcs.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CatFactsTcs.getCatInfo.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestRunner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;TestNG.CatFactsApi.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsApi.testEndPoint.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsApi.validateCatInfoContainsCatsWord.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsApi.validateThatFirstItemHasLength.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsApi.validateThatResponseCodeIs200.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsApi.validateThatResponseCodeIs404WhenMethodIsPost.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsApi.validateThatResponseHaveBody.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsTcs.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsTcs.getCatInfo.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsTcs.validateCatInfoContainsCatsWord.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsTcs.validateThatFirstItemHasLength.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsTcs.validateThatResponseCodeIs404WhenMethodIsPost.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsTcs.validateThatResponseHaveBody.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsTestCases.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsTestCases.validateCatInfoContainsCatsWord.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.CatFactsTestCases.validateThatResponseHaveBody.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/IdeaProjects/InterviewTask/src/test&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/user/IdeaProjects/InterviewTask/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\InterviewTask\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\IdeaProjects\InterviewTask\src\test" />
+      <recent name="C:\Users\user\IdeaProjects\InterviewTask\src" />
+      <recent name="C:\Users\user\IdeaProjects\InterviewTask\src\main" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TestRunner">
+    <configuration name="Scenario: user can add items to the cart" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/AddToCart.feature" />
+      <option name="GLUE" value="stepdefinitions" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="InterviewTask" />
+      <option name="NAME_FILTER" value="^user can add items to the cart$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^user can add items to the cart$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: user can add items to the cart" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InterviewTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testRunner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testRunner" />
+      <option name="MAIN_CLASS_NAME" value="testRunner.TestRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="InterviewTask-part1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="InterviewTask-part1" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatFactsApi" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restassured" />
+      <option name="MAIN_CLASS_NAME" value="restassured.CatFactsApi" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatFactsApi.validateThatResponseCodeIs200" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restassured" />
+      <option name="MAIN_CLASS_NAME" value="restassured.CatFactsApi" />
+      <option name="METHOD_NAME" value="validateThatResponseCodeIs200" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CatFactsApi.validateThatResponseCodeIs404WhenMethodIsPost" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewTask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restassured.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="restassured" />
+      <option name="MAIN_CLASS_NAME" value="restassured.CatFactsApi" />
+      <option name="METHOD_NAME" value="validateThatResponseCodeIs404WhenMethodIsPost" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="TestNG.CatFactsApi" />
+        <item itemvalue="Cucumber Java.Scenario: user can add items to the cart" />
+        <item itemvalue="TestNG.CatFactsApi.validateThatResponseCodeIs404WhenMethodIsPost" />
+        <item itemvalue="TestNG.CatFactsApi.validateThatResponseCodeIs200" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8181b8dd-89bb-45f7-9332-ce883db42c9e" name="Changes" comment="" />
+      <created>1712658397679</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712658397679</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
